@@ -1,0 +1,12 @@
+= YouTube
+
+
+== Einführung in das Reverse Engineering: Ghidra
+
+Einführung in das Reverse Engineering: Ghidra - Teil 1
+
+https://www.youtube.com/watch?v=EyV8gRdRS1U
+
+Einführung in das Reverse Engineering: Ghidra - Teil 2
+
+https://www.youtube.com/watch?v=AzNGt-dtkMY
