@@ -1,5 +1,10 @@
 = YouTube
-
+:toc:
+:sectnums:
+ifndef::env-github[:icons: font]
+:note-caption: :paperclip:
+:important-caption: :exclamation:
+:warning-caption: :warning:
 
 == Einführung in das Reverse Engineering: Ghidra
 
@@ -10,3 +15,8 @@ https://www.youtube.com/watch?v=EyV8gRdRS1U
 Einführung in das Reverse Engineering: Ghidra - Teil 2
 
 https://www.youtube.com/watch?v=AzNGt-dtkMY
+
+
+== Programme mit Ghidra dekompilieren (picoCTF #25)
+
+https://www.youtube.com/watch?v=ClpaJZ9n1bQ
